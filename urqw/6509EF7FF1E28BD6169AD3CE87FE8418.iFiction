@@ -15,12 +15,12 @@
 			<description>Вы первокурсник и пытаетесь проникнуть в студенческое подполье, где кипит неформальная жизнь. Но просто так приглашений не выдают: надо пройти проверку на сообразительность и составить себе репутацию надёжного товарища.<br/>Игра переиздана к своему 10-летию. Первая публикация состоялась 10.02.2009.</description>
 		</bibliographic>
 		<contacts>
-			<url>https://urqw.github.io/UrqW/#knights</url>
+			<url>https://urqw.github.io/UrqW/?id=knights</url>
 			<authoremail>lemon.multilab@gmail.com</authoremail>
 		</contacts>
 		<colophon>
 			<generator>UrqW Game Template</generator>
-			<originated>2025-09-24</originated>
+			<originated>2026-01-09</originated>
 		</colophon>
 	</story>
 </ifindex>
