@@ -4,7 +4,7 @@ Text-based game "Knights of Mathematics (2019)" (Russian: "Рыцари мате
 
 The game is in Russian and developed for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#knights).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=knights).
 
 The game was first published on November 24, 2019.
 
